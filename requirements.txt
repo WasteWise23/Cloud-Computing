@@ -1,2 +1,5 @@
 fastapi
 uvicorn
+
+kunjungi link berikut
+https://tecadmin.net/working-with-python-fastapi-and-mysql/
