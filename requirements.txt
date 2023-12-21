@@ -1,0 +1,7 @@
+uvicorn
+keras
+matplotlib
+numpy
+fastapi[all]
+pillow
+tensorflow
