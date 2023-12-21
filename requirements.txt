@@ -1,0 +1,9 @@
+uvicorn
+keras
+matplotlib
+numpy
+fastapi[all]
+pillow
+gunicorn
+tensorflow
+python-multipart
