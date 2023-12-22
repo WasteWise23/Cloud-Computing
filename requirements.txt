@@ -5,3 +5,4 @@ numpy
 fastapi[all]
 pillow
 tensorflow
+python-multipart
